@@ -1,0 +1,12 @@
+model\GroupEnumeration.class
+view\FrmContact$1.class
+service\ContactServiceImpl.class
+view\FrmContact.class
+dao\ConnectionMySQL.class
+model\Contact.class
+view\Main.class
+dao\ContactRepositoryImpl.class
+view\FrmContact$2.class
+controller\ContactController.class
+dao\IContactRepository.class
+service\IContactService.class
